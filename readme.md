@@ -1,6 +1,6 @@
 # Minimal Virtual Room
 
-*Meetabout* is a minimal web app to demonstrate in as few steps as possible the Kaltura/NewRow virtual meeting API . This example leverages the easy-to-use [Virtual Meeting Room API](https://github.com/kaltura-vpaas/virtual-meeting-rooms) to host the meeting on the Kaltura platform.
+This is a minimal web app to demonstrate in as few steps as possible the Kaltura/NewRow virtual meeting API . This example leverages the easy-to-use [Virtual Meeting Room API](https://github.com/kaltura-vpaas/virtual-meeting-rooms) to host the meeting on the Kaltura platform.
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ KALTURA_USER_ID=#set it to the Kaltura user designated as admin. This is usually
 
 ## A Meeting!
 
-## <img src="/assets/images/meetabout/newrow_room.png" alt="newrow_room" style="zoom:35%;" />
+## <img src="assets/images/minimal/newrow_room.png" alt="newrow_room" style="zoom:35%;" />
 
 ### Setting Up a Meeting: Beneath the Hood
 
